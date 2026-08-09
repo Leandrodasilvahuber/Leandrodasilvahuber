@@ -34,8 +34,6 @@ Confira o [api-documentacao-colaboradores](https://github.com/Leandrodasilvahube
 
 ## 📫 Contato
 
-🌐 [leandrohuber.com.br](https://leandrohuber.com.br)
+💼 [LinkedIn](https://www.linkedin.com/in/leandrohuber/)
 
-💼 LinkedIn
-
-✉️ leandroh_dev@hotmail.com
+✉️ emaildohuber@gmail.com
