@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, eu sou o Leandro 👋
 
-<!--
-**Leandrodasilvahuber/Leandrodasilvahuber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack Sênior com 16+ anos de experiência arquitetando e entregando sistemas web escaláveis. Atuo principalmente nos ecossistemas JavaScript/Node.js e PHP/Laravel, com experiência prática em microsserviços, processamento assíncrono de alta escala e infraestrutura cloud.
 
-Here are some ideas to get you started:
+Um dos primeiros a integrar de forma estratégica ferramentas de IA (GitHub Copilot, MCPs) ao fluxo de desenvolvimento, elevando velocidade de entrega sem abrir mão de qualidade de código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏠 100% remoto (nacional e internacional) · PJ / Contrato B2B / Freelance
+
+## 🛠️ Stack principal
+
+**JavaScript / Node.js:** Express.js, TypeScript, React, Vue.js
+
+**PHP / Laravel:** APIs REST, Microsserviços, CakePHP
+
+**Cloud & DevOps:** AWS, DigitalOcean, Docker, CI/CD, GitHub Actions
+
+**Dados & Mensageria:** PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ, ElasticSearch
+
+**AI-Assisted Development:** GitHub Copilot, MCPs, AI Pair Programming, Prompt Engineering
+
+## 💼 Experiência recente
+
+**Desenvolvedor Full Stack Sênior — Hammer Consult (2023 – atual)**
+Arquitetura de aplicações escaláveis em Vue.js, Laravel e Node.js; estratégias de cache com Redis; processamento assíncrono com Kafka; deploy e operação em AWS/DigitalOcean.
+
+**Desenvolvedor Full Stack Pleno/Sênior — Digifarmz (2021 – 2023)**
+Microsserviços e APIs RESTful em Vue.js, Laravel, React e Node.js; pipelines de CI/CD; arquitetura orientada a eventos com Kafka.
+
+10+ anos anteriores construindo sistemas backend e full stack em diversas empresas — base sólida em JavaScript, Node.js, PHP e Java.
+
+## 📌 Projeto em destaque
+
+Confira o [api-documentacao-colaboradores](https://github.com/Leandrodasilvahuber/api-documentacao-colaboradores) — API em Node.js + TypeScript (Express, Prisma, PostgreSQL) para controle de documentos de colaboradores, com testes e2e, controle de concorrência via transações e documentação OpenAPI completa.
+
+## 📫 Contato
+
+🌐 [leandrohuber.com.br](https://leandrohuber.com.br)
+
+💼 LinkedIn
+
+✉️ leandroh_dev@hotmail.com
