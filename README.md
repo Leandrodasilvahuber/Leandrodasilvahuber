@@ -28,9 +28,15 @@ Microsserviços e APIs RESTful em Vue.js, Laravel, React e Node.js; pipelines de
 
 10+ anos anteriores construindo sistemas backend e full stack em diversas empresas — base sólida em JavaScript, Node.js, PHP e Java.
 
-## 📌 Projeto em destaque
+## 📌 Projetos em destaque
 
-Confira o [api-documentacao-colaboradores](https://github.com/Leandrodasilvahuber/api-documentacao-colaboradores) — API em Node.js + TypeScript (Express, Prisma, PostgreSQL) para controle de documentos de colaboradores, com testes e2e, controle de concorrência via transações e documentação OpenAPI completa.
+**[api-documentacao-colaboradores](https://github.com/Leandrodasilvahuber/api-documentacao-colaboradores)** — API em Node.js + TypeScript (Express, Prisma, PostgreSQL) para controle de documentos de colaboradores, com testes e2e, controle de concorrência via transações e documentação OpenAPI completa.
+
+**[job-sourcing](https://github.com/Leandrodasilvahuber/job-sourcing)** — API em Node.js/Express para descobrir empresas de desenvolvimento de software (Brasil e Portugal) via OCR, crawler do GitHub e crawler do Google, com pesquisa automatizada por IA (Gemini) e frontend em React.
+
+**[redacao](https://github.com/Leandrodasilvahuber/redacao)** (Orquestrador IA) — Pipeline automatizado que busca notícias via RSS, gera e revisa textos com IA (Groq/Gemini/Mistral), ilustra e publica no blog e/ou LinkedIn. Backend em Spring Boot (Java) e frontend em React.
+
+**[blog](https://github.com/Leandrodasilvahuber/blog)** — Blog pessoal ([acesse aqui](https://leandrohuber.duckdns.org/)) com redação orquestrada por IA e revisão humana; painel administrativo em Laravel, API de publicação autenticada por token e testes automatizados (unit, feature e e2e com Dusk).
 
 ## 📫 Contato
 
