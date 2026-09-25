@@ -2,10 +2,6 @@
 
 Desenvolvedor Full Stack Sênior com 16+ anos de experiência arquitetando e entregando sistemas web escaláveis. Atuo principalmente nos ecossistemas JavaScript/Node.js e PHP/Laravel, com experiência prática em microsserviços, processamento assíncrono de alta escala e infraestrutura cloud.
 
-Um dos primeiros a integrar de forma estratégica ferramentas de IA (GitHub Copilot, MCPs) ao fluxo de desenvolvimento, elevando velocidade de entrega sem abrir mão de qualidade de código.
-
-🏠 100% remoto (nacional e internacional) · PJ / Contrato B2B / Freelance
-
 ## 🛠️ Stack principal
 
 **JavaScript / Node.js:** Express.js, TypeScript, React, Vue.js
